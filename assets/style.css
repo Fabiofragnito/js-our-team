@@ -1,0 +1,34 @@
+.card {
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center; 
+    flex-direction: row;
+    padding: 15px;
+    max-width: 600px;
+  }
+  
+  .card img {
+    width: 150px; 
+    
+  }
+  
+  
+  
+  .card h3 {
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 5px;
+  }
+  
+  .card h4 {
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+  }
+  
+  .info h4:last-child {
+    font-size: 14px;
+    color: #00e6ff;
+  }
+  
